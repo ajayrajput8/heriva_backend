@@ -1,0 +1,2 @@
+package com.madebyher.model;
+public enum OrderStatus { PLACED, CONFIRMED, PREPARING, PACKED, SHIPPED, DELIVERED, CANCELLED, RETURN_REQUESTED, RETURNED }
